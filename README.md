@@ -93,12 +93,11 @@ The final report includes:
 
 ## 🔗 License & Acknowledgement
 This project is part of a technical assessment and is not intended for public use or redistribution. 
-All data used herein remain the property of their original custodians. 
+All data used herein remain the property of their original custodians - UNICEF. 
+
 
 ## Positions Applied
 - Learning and Skills Data Analyst Consultant – Req. #581598
 - Household Survey Data Analyst Consultant – Req. #581656
 - Administrative Data Analyst – Req. #581696
 - Microdata Harmonization Consultant – Req. #581699
-
-This project is part of a technical assessment and is not intended for public use or redistribution. All data used herein remain the property of their original custodians (UNICEF, UN DESA).

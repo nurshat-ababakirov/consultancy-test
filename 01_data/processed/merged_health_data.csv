@@ -1,0 +1,83 @@
+iso3,country,track_status,anc4,sba,births
+AFG,Afghanistan,off-track,24.25,60.3,1446699
+ALB,Albania,on-track,77.8,99.95,28795
+ARG,Argentina,on-track,90.4,99.3,627741
+BEN,Benin,off-track,52.35,79.44999999999999,481715
+BFA,Burkina Faso,off-track,72.1,95.8,793030.9999999999
+BGD,Bangladesh,on-track,40.733333333333334,60.5,2994966
+BLR,Belarus,on-track,99.9,99.9,87251.99999999999
+BRA,Brazil,on-track,92.375,98.45,2723266
+CIV,Côte d'Ivoire,off-track,56.3,84,943133
+CMR,Cameroon,off-track,64.9,69,959096
+COD,Democratic Republic of the Congo,off-track,42.9,85.2,4133987
+COM,Comoros,off-track,64.3,97.2,24201
+CPV,Cabo Verde,on-track,85.6,97.3,9908
+CRI,Costa Rica,on-track,94.1,98.875,60517
+CUB,Cuba,on-track,79.3,99.92500000000001,99693
+DOM,Dominican Republic,off-track,92.6,99.2,203625
+DZA,Algeria,on-track,69.8,98.8,923648
+EGY,Egypt,on-track,89.9,97.1,2453941
+ETH,Ethiopia,off-track,43,49.8,3928445
+FJI,Fiji,off-track,88.7,99.8,17821
+GAB,Gabon,off-track,77.8,95.2,64022.00000000001
+GEO,Georgia,on-track,83.73333333333333,99.78,49106
+GHA,Ghana,off-track,86.4,78.9,906677
+GIN,Guinea,off-track,46.8,55.3,469311
+GMB,Gambia,off-track,77.05,83.25,88534.99999999999
+GNB,Guinea-Bissau,off-track,80.7,53.8,64479
+GUY,Guyana,on-track,84.7,95.89999999999999,16129.000000000002
+HND,Honduras,on-track,88.3,94.1,217590
+HRV,Croatia,on-track,97.2,99.9,33924
+IND,India,on-track,58.4,89.4,23056027
+IRQ,Iraq,on-track,67.9,95.6,1203188
+JOR,Jordan,on-track,91.5,99.7,245484
+KEN,Kenya,off-track,62.25,89.3,1488394
+KGZ,Kyrgyzstan,on-track,91.65,99.9,154761
+KHM,Cambodia,on-track,86,98.7,318335
+KIR,Kiribati,off-track,67,91.9,3512
+LBR,Liberia,off-track,87.3,84.4,164452
+LSO,Lesotho,off-track,76.6,86.6,59490
+MAR,Morocco,on-track,53.5,86.6,643109
+MDG,Madagascar,off-track,55.25,45.95,906130
+MKD,North Macedonia,on-track,95.7,99.975,19992
+MLI,Mali,off-track,43.3,67.3,932317
+MNE,Montenegro,on-track,94.2,98.8,6859
+MNG,Mongolia,on-track,88.5,99.3,69481
+MRT,Mauritania,off-track,38.5,70.4,156047
+MWI,Malawi,off-track,50.5,96.4,665678
+MYS,Malaysia,on-track,98.1,99.66666666666666,509232
+NER,Niger,off-track,37.3,43.7,1180654
+NGA,Nigeria,off-track,58.599999999999994,47,8002758
+NPL,Nepal,on-track,79.15,78.65,616657
+OMN,Oman,on-track,75.15,99.44,81043
+PAK,Pakistan,off-track,51.9,70.33333333333333,6424944
+PER,Peru,on-track,96.05,94.67500000000001,592156
+PHL,Philippines,off-track,83,89.6,2499081
+PNG,Papua New Guinea,off-track,49,56.4,254718
+PRY,Paraguay,on-track,84,93.075,137960
+PSE,State of Palestine,on-track,94.8,99.7,145449
+ROU,Romania,on-track,70.1,93,191763
+RWA,Rwanda,off-track,47.2,94.2,406214
+SAU,Saudi Arabia,on-track,79.7,97.1,615690
+SEN,Senegal,off-track,47.733333333333334,74.35,555696
+SLE,Sierra Leone,off-track,78.8,86.9,265023
+SOM,Somalia,off-track,24.4,31.9,759044
+SRB,Serbia,on-track,96.6,99.9,66557
+SSD,South Sudan,off-track,31.1,39.7,315390
+SUR,Suriname,on-track,67.5,99.2,11123
+SWZ,Eswatini,off-track,73.5,93.4,28476
+TCA,Turks and Caicos Islands,on-track,93.2,100,560
+THA,Thailand,on-track,89.15,99.35,631239
+TKM,Turkmenistan,off-track,97.6,99.86666666666667,133491
+TON,Tonga,on-track,88.5,98.3,2456
+TUN,Tunisia,on-track,84.1,99.5,192759
+TUR,Türkiye,on-track,89.7,98.1,1236900
+TUV,Tuvalu,on-track,60.3,99.5,265
+TZA,United Republic of Tanzania,off-track,65.1,85,2346821
+UGA,Uganda,off-track,56.7,91,1713605
+URY,Uruguay,on-track,97.05,100,35668
+UZB,Uzbekistan,on-track,89.5,99.75,776815
+VNM,Viet Nam,on-track,88.2,96.1,1442809
+WSM,Samoa,on-track,69.8,88.9,6024
+ZMB,Zambia,off-track,63.5,80.4,683355
+ZWE,Zimbabwe,off-track,71.5,86,491195
